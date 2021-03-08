@@ -1,0 +1,4 @@
+exclude:
+  - name: All
+    paths:
+      - http4k-cloudnative/src/test
